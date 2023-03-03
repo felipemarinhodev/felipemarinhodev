@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipemarinhodev)](https://www.linkedin.com/in/felipemarinhodev)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemarinhodev&layout=compact&langs_count=7&theme=dracula)
+![](https://github-readme-stats.vercel.app/api?username=felipemarinhodev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
